@@ -17,7 +17,8 @@ First Challenge (R) [Dataset](https://pages.github.com/)
 To Run (streamlit example R)
    - download csv files
    - run commented out code in your python ide starting in lines 24 to 38 this will create the pandas dataframes that then are ingested into a local sqlite database
-   - open terminal and navigate to where streamlit python file was downloaded , run the following command streamlit_example_r.py
+   - open terminal and navigate to the folder where streamlit python file was downloaded and make sure the local database is saved in the same folder
+   - run the following command streamlit_example_r.py
    - a browser window will show up with the application
 
 ![Image Alt text](/images/Streamlit_example_R.png "Optional title")  
@@ -45,7 +46,12 @@ Second Challenge (F)
  - Include robust error handling and data validation features to ensure that only clean, transformed data is inserted into the database.
 
  To Run (streamlit example F)
-   - download streamlit python file, run the following command streamlit_example_f.py
+   - download streamlit python file
+   - in your .streamlit folder config.toml make sure you add the following to account for parquet file size issues:
+        [server]
+        maxUploadsSize = 5000
+        maxMessageSize = 5000
+   - navigate to the folder where you downloaded the file and run the following command streamlit_example_f.py
    - a browser window will show up with the application
    - download csv files from read in second challenge section
    - upload those files to application
