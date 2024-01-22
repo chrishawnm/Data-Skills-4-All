@@ -1,5 +1,17 @@
 In my data engineering fellowship I created two streamlit applications of varying difficulty that showcased mt knowledge and understanding of the following:
 
+Notes on running the streamlit Applications:
+1. To Run (streamlit example R)
+   - download csv files
+   - run commented out code in your python ide starting in lines 24 to 38 this will create the pandas dataframes that then are ingested into a local sqlite database
+   - open terminal and navigate to where streamlit python file was downloaded , run the following command streamlit_example_r.py
+   - a browser window will show up with the application
+ 2. To Run (streamlit example F)
+   - download streamlit python file, run the following command streamlit_example_f.py
+   - a browser window will show up with the application
+   - download csv files from read in second challenge section
+   - upload those files to application
+
 Tech Stack
 - Streamlit for Web Application Framework
 - Python for data transformations (pandas library)
