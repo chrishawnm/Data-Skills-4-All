@@ -1,18 +1,5 @@
 In my data engineering fellowship I created two streamlit applications of varying difficulty that showcased my knowledge and understanding of the following:
 
-Notes on running the streamlit Applications:
-1. To Run (streamlit example R)
-   - download csv files
-   - run commented out code in your python ide starting in lines 24 to 38 this will create the pandas dataframes that then are ingested into a local sqlite database
-   - open terminal and navigate to where streamlit python file was downloaded , run the following command streamlit_example_r.py
-   - a browser window will show up with the application
- 2. To Run (streamlit example F)
-   - download streamlit python file, run the following command streamlit_example_f.py
-   - a browser window will show up with the application
-   - download csv files from read in second challenge section
-   - upload those files to application
-   - upload [Transformation File](https://github.com/chrishawnm/Data-Skills-4-All/blob/main/Streamlit_example_F_transformations.json) to the streamlit app where specified
-
 Tech Stack
 - Streamlit for Web Application Framework
 - Python for data transformations (pandas library)
@@ -26,6 +13,12 @@ First Challenge (R) [Dataset](https://pages.github.com/)
 - Implement a feature to display the SQL query used to fetch the data for answering the questions.
 - Display the relevant data in a data frame within the Streamlit app.
 - Ensure the chatbot is user-friendly and intuitive using the Streamlit chat widget.
+
+To Run (streamlit example R)
+   - download csv files
+   - run commented out code in your python ide starting in lines 24 to 38 this will create the pandas dataframes that then are ingested into a local sqlite database
+   - open terminal and navigate to where streamlit python file was downloaded , run the following command streamlit_example_r.py
+   - a browser window will show up with the application
 
 ![Image Alt text](/images/Streamlit_example_R.png "Optional title")  
 
@@ -50,6 +43,14 @@ Second Challenge (F)
  - Implement a feature that allows users to connect to their SQL databases directly from the application.
  - Provide options for creating new database tables or appending data to existing tables.
  - Include robust error handling and data validation features to ensure that only clean, transformed data is inserted into the database.
+
+ To Run (streamlit example F)
+   - download streamlit python file, run the following command streamlit_example_f.py
+   - a browser window will show up with the application
+   - download csv files from read in second challenge section
+   - upload those files to application
+   - upload [Transformation File](https://github.com/chrishawnm/Data-Skills-4-All/blob/main/Streamlit_example_F_transformations.json) to the streamlit app where specified
+
 
 ![Image Alt text](/images/streamlit_example_f_DE.png "Optional title")
 
