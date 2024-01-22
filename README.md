@@ -1,1 +1,1 @@
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/chrishawnm/Data-Skills-4-All/blob/main/Streamlit_Covers/Streamlit_example_R.png)https://github.com/chrishawnm/Data-Skills-4-All/blob/main/Streamlit_Covers/Streamlit_example_R.png?raw=true)
+([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/chrishawnm/Data-Skills-4-All/blob/main/Streamlit_Covers/Streamlit_example_R.png)https://github.com/chrishawnm/Data-Skills-4-All/blob/main/Streamlit_Covers/Streamlit_example_R.png?)
