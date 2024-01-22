@@ -38,7 +38,7 @@ Second Challenge (F)
  - Provide options for creating new database tables or appending data to existing tables.
  - Include robust error handling and data validation features to ensure that only clean, transformed data is inserted into the database.
 
-![Image Alt text](/images/Streamlit_example_F_DE.png "Optional title")
+![Image Alt text](/images/Streamlit_example_f_DE.png "Optional title")
 
 
 ![Image Alt text](/images/Streamlit_example_F.png "Optional title")
