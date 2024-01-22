@@ -17,9 +17,9 @@ First Challenge (R)
 Second Challenge (F)
 
 - Develop a User-Friendly Data Ingestion Interface
-- - Enable users to upload Parquet files through a simple drag-and-drop interface.
-- - Provide real-time validation and error handling to ensure only compatible files are uploaded.
-- - Implement a preview feature to display the first few rows of the dataset immediately after upload.
+ - Enable users to upload Parquet files through a simple drag-and-drop interface.
+ - Provide real-time validation and error handling to ensure only compatible files are uploaded.
+ - Implement a preview feature to display the first few rows of the dataset immediately after upload.
 
 - Facilitate Customizable Data Transformation
 - - Allow users to upload a JSON file containing specific data transformation rules, such as field cleansing and data type parsing.
