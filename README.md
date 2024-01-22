@@ -26,7 +26,7 @@ First Challenge (R)
 - Display the relevant data in a data frame within the Streamlit app.
 - Ensure the chatbot is user-friendly and intuitive using the Streamlit chat widget.
 
-![Image Alt text](/images/Streamlit_example_R.png "Optional title")  
+![Image Alt text](/images/Streamlit_example_F.png "Optional title")  
 
 Second Challenge (F)
 
