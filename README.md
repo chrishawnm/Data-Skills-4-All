@@ -11,6 +11,7 @@ Notes on running the streamlit Applications:
    - a browser window will show up with the application
    - download csv files from read in second challenge section
    - upload those files to application
+   - upload [Transformation File](https://github.com/chrishawnm/Data-Skills-4-All/blob/main/Streamlit_example_F_transformations.json) to the streamlit app where specified
 
 Tech Stack
 - Streamlit for Web Application Framework
@@ -26,7 +27,7 @@ First Challenge (R) [Dataset](https://pages.github.com/)
 - Display the relevant data in a data frame within the Streamlit app.
 - Ensure the chatbot is user-friendly and intuitive using the Streamlit chat widget.
 
-![Image Alt text](/images/Streamlit_example_F.png "Optional title")  
+![Image Alt text](/images/Streamlit_example_R.png "Optional title")  
 
 Second Challenge (F)
 
@@ -53,4 +54,4 @@ Second Challenge (F)
 ![Image Alt text](/images/streamlit_example_f_DE.png "Optional title")
 
 
-![Image Alt text](/images/Streamlit_example_R.png "Optional title")
+![Image Alt text](/images/Streamlit_example_F.png "Optional title")
