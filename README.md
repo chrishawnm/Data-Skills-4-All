@@ -1,4 +1,4 @@
-In my data engineering fellowship I created two streamlit applications of varying difficulty that showcased mt knowledge and understanding of the following:
+In my data engineering fellowship I created two streamlit applications of varying difficulty that showcased my knowledge and understanding of the following:
 
 Notes on running the streamlit Applications:
 1. To Run (streamlit example R)
