@@ -1,4 +1,4 @@
 
-![Image Alt text](/images/Streamlit_example_R.jpg
+![Image Alt text](/images/Streamlit_example_R.png
 
-![Image Alt text](/images/Streamlit_example_R.jpg "Optional title"))  
+![Image Alt text](/images/Streamlit_example_R.png "Optional title"))  
