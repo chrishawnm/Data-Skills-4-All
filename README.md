@@ -18,7 +18,7 @@ Tech Stack
 - SQL for Data Storage (Cloud hosted)
 - OpenAI GPT API to get quick Data Insights
 
-First Challenge (R)
+First Challenge (R) [Dataset](https://pages.github.com/)
 - Design and develop a chatbot in Streamlit that can interact with a database. You should upload the CSV files into a database (locally or Cloud) and create the corresponding tables. 
 - Enable the chatbot to answer questions related to sales, marketing, and production. It should create a query that might respond to the answer and run it on the database. 
 - Restrict DML operations such as DELETE, UPDATE, and so on).
