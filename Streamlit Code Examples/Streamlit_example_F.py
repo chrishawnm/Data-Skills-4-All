@@ -169,7 +169,7 @@ def openai_response():
         st.session_state.clicked_ai = False
 
 
-    openai_api_key= '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'
+    openai_api_key= ''
     st.button('Analyze Data Sample',on_click=click_button_ai)
     if st.session_state.clicked_ai:
         conv_df = PandasLLM(data=st.session_state.result_df, llm_api_key = openai_api_key)
